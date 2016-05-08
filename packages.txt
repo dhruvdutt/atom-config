@@ -1,15 +1,8 @@
-angularjs
-angularjs-styleguide-snippets
-atom-beautify
-atom-jade
-atom-jshint
 atom-ternjs
-atom-wrap-in-tag
 autoclose-html
 clipboard-history
 css-spy
 docblockr
-emmet
 file-icons
 highlist-selected
 indent-guide-improved
@@ -17,7 +10,6 @@ jscs-fixer
 language-babel
 less-than-slash
 linter
-linter-jade
 linter-jscs
 linter-jshint
 linter-less
