@@ -1,0 +1,100 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "efcc1a4c-2e0b-4629-b174-7290d743bbf5"
+  core:
+    autoHideMenuBar: true
+    customFileTypes:
+      "source.ini": [
+        ".buckconfig"
+        ".flowconfig"
+      ]
+      "source.json": [
+        ".arcconfig"
+        "BUCK.autodeps"
+      ]
+      "source.python": [
+        "BUCK"
+      ]
+    disabledPackages: [
+      "linter-js-standard"
+      "atom-wrap-in-tag"
+      "emmet"
+      "language-csharp"
+      "language-clojure"
+      "language-c"
+      "language-go"
+      "language-java"
+      "language-make"
+      "language-mustache"
+      "language-objective-c"
+      "language-perl"
+      "language-ruby-on-rails"
+      "language-ruby"
+      "language-shellscript"
+      "language-toml"
+      "linter-jade"
+      "autoclose-html"
+      "angularjs-styleguide-snippets"
+      "atom-beautify"
+      "simple-drag-drop-text"
+      "jscs-fixer"
+      "linter-jscs"
+    ]
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  docblockr:
+    deep_indent: true
+    development_mode: true
+    extra_tags: [
+      "@public"
+      "@memberof titan.Main.Catalog"
+      "@author dhruvdutt"
+    ]
+    return_description: false
+    spacer_between_sections: true
+  editor:
+    fontSize: 16
+    invisibles: {}
+    preferredLineLength: 100
+  emmet: {}
+  "exception-reporting":
+    userId: "08c9d396-f0de-6d99-3002-4b031a7f3135"
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  linter:
+    errorPanelHeight: 22
+  "linter-jscs":
+    configPath: ".jscsrc"
+  "linter-less":
+    ignoreUndefinedGlobalVariables: true
+    ignoreUndefinedVariables: true
+  "merge-conflicts": {}
+  minimap: {}
+  "one-dark-ui": {}
+  "predawn-ui":
+    colourlessIcons: false
+  "tool-bar":
+    position: "Left"
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+".angular.html.text":
+  editor:
+    preferredLineLength: 100
+".ansi.text":
+  editor:
+    preferredLineLength: 100
+".hack.html.text":
+  editor:
+    preferredLineLength: 100
+".hackfragment.source":
+  editor:
+    preferredLineLength: 100
+".hg-commit.text":
+  editor:
+    preferredLineLength: 100
