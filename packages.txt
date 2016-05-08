@@ -17,7 +17,6 @@ merge-conflicts
 minimap
 predawn-syntax
 predawn-ui
-react
 selector-to-tag
 tool-bar
 tool-bar-atom

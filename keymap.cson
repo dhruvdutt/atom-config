@@ -29,6 +29,7 @@
   'ctrl-7': 'pane:show-item-7'
   'ctrl-8': 'pane:show-item-8'
   'ctrl-9': 'pane:show-item-9'
+  'ctrl-shift-t': 'tool-bar:toggle'
 
 'atom-workspace atom-text-editor:not([mini])':
   'ctrl-[': 'editor:fold-current-row'
