@@ -4,7 +4,7 @@ clipboard-history
 css-spy
 docblockr
 file-icons
-highlist-selected
+highlight-selected
 indent-guide-improved
 jscs-fixer
 language-babel
