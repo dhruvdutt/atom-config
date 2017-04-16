@@ -1,0 +1,71 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.162" value="16" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Workspace/tech-stack-app&#10;/home/dhruvdutt/Program Files/node/bin/node&#10;/media/dhruvdutt/Data/Dev/Workspace/albums&#10;/media/dhruvdutt/Data/Dev/Workspace&#10;/home/dhruvdutt/.WebStorm2017.1/config&#10;D:/Dev/Workspace/albums&#10;D:/Dev/My Workspace/protonmail-web&#10;D:/Dev/GSoC/self-service-android-app&#10;D:/Dev/GSoC/community-app&#10;D:/Dev/GSoC/web-self-service-app&#10;D:/Dev/GoVegan/karunamilk-subscription/eslintrc.json&#10;D:/Dev/GoVegan/karunamilk-subscription&#10;D:/Libraries/Compressed/karunamilk-subscription/karunamilk-subscription&#10;D:/Libraries/Compressed/New folder/New folder&#10;D:/Dev/GoVegan/vegme-react-native&#10;D:/Dev/GoVegan/vegme-react-web&#10;D:/Dev/Projects/dinetym-waitlist-api&#10;D:/Dev/Projects/dinetym-manager&#10;D:/Dev/Synapse/synapse-api&#10;D:/Dev/Synapse/synapse&#10;D:/Synapse/synapse-frontend&#10;D:/Synapse/synapse-static-site&#10;D:/Practice Projects/website&#10;D:/Practice Projects/yarn/src&#10;D:/Practice Projects/yarn&#10;D:/Synapse/synapse&#10;D:/Projects/dinetym-manager&#10;D:/Synapse/synapse-api/node_modules&#10;D:/Synapse/synapse-api&#10;D:/Webstorm Workspace/Angular-2" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="PLUGIN_FILTER" value="clipboard&#10;react&#10;material&#10;eslint&#10;css" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DARKER" />
+    <property name="selected.color.option.type" value="MODIFIED_LINES_COLOR" />
+    <property name="KEYMAP" value="fav&#10;navigatio&#10;favo&#10;scroll&#10;duplic" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="ColorChooser.RecentColors" value="199-146-234-255,,,255-83-112-255,,,141-141-141-255,,,68-113-82-255,,,114-44-64-255,,,181-29-18-255,,,74-123-165-255,,,44-132-54-255,,,84-84-84-255,,,33-33-33-255,,,255-205-210-119,,,255-255-255-255,,,255-115-69-255,,,255-87-40-255,,,71-130-171-255,,,26-74-33-255,,,45-84-73-255,,,0-57-78-255,,,0-39-52-255,,,49-61-84-255" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.4016563" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.38731217" />
+    <property name="LAST_INJECTED_LANGUAGE" value="CSS" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="INSPECTION_FILTER_HISTORY" value="" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="file.colors.enable.non.project" value="" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="SplitFileEditor.Proportion" value="0.8009756" />
+    <property name="com.chrisrm.idea.MaterialThemeUIFork.theme" value="DEFAULT" />
+    <property name="PluginCopyPasteStack.SplitPaneDividerLocation" value="147" />
+    <property name="file.gist.reindex.count" value="8985" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="evlsprt3.171" value="17" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Theme - Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+  </component>
+</application>

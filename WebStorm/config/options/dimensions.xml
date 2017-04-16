@@ -1,0 +1,57 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="391" y="133" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="246" />
+    <location key="SettingsEditor.0.0.1366.768" x="274" y="0" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="263" y="12" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1366.768" x="263" y="12" />
+    <location key="jetbrains.javascript.buildTools.run-task-popup.0.0.1366.768" x="548" y="205" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="1023" y="420" />
+    <location key="#com.intellij.ide.scriptingContext.ui.LibraryScopesDialog.0.0.1366.768" x="415" y="147" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1366.768" x="353" y="31" />
+    <location key="bookmarks.0.0.1366.768" x="186" y="209" />
+    <location key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog.0.0.1366.768" x="563" y="316" />
+    <location key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog.0.0.1366.768" x="443" y="115" />
+    <location key="#Menus_and_Toolbars.0.0.1366.768" x="461" y="125" />
+    <location key="RollbackChangesDialog.0.0.1366.768" x="519" y="71" />
+    <location key="#SCSS_Lint.0.0.1366.768" x="410" y="216" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="417" y="189" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="303" y="0" />
+    <location key="DiffContextDialog.0.0.1366.768" x="129" y="53" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1366.768" x="494" y="245" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="498" y="85" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="440" y="240" />
+    <location key="findTextDialog.0.0.1366.768" x="389" y="10" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1366.768" x="527" y="88" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="397" y="173" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="25" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="124" />
+    <location key="#Inspections.0.0.1366.768" x="315" y="49" />
+    <location key="FileDocumentManager.FileCacheConflict.0.0.1366.768" x="470" y="212" />
+    <location key="vpa.projectList.0.0.1366.768" x="423" y="161" />
+    <location key="scopes.0.0.1366.768" x="472" y="229" />
+    <location key="#ESLint.0.0.1366.768" x="460" y="179" />
+    <location key="RegExHelpPopup.0.0.1366.768" x="255" y="122" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" x="810" y="0" />
+    <location key="#Libraries.0.0.1366.768" x="366" y="93" />
+    <location key="#Notifications.0.0.1366.768" x="436" y="77" />
+    <size key="jetbrains.javascript.buildTools.run-task-popup.0.0.1366.768" width="252" height="276" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="257" height="194" />
+    <size key="bookmarks.0.0.1366.768" width="991" height="347" />
+    <size key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog.0.0.1366.768" width="480" height="550" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="169" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="169" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="169" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="169" />
+    <size key="GotoFile_FileTypePopup.0.0.1366.768" width="200" height="200" />
+    <size key="CommitChangelistDialog2.0.0.1366.768" width="759" height="728" />
+    <size key="javadoc.popup.0.0.1366.768" width="602" height="350" />
+    <size key="Vcs.Push.Dialog.0.0.1366.768" width="576" height="558" />
+    <size key="vpa.projectList.0.0.1366.768" width="502" height="393" />
+    <size key="findTextDialog.0.0.1366.768" width="722" height="728" />
+    <size key="SettingsEditor.0.0.1366.768" width="1032" height="746" />
+    <size key="RegExHelpPopup.0.0.1366.768" width="602" height="326" />
+    <size key="#ESLint.0.0.1366.768" width="565" height="549" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="506" height="532" />
+  </component>
+</application>

@@ -1,0 +1,226 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="javaScript Scope Usages">
+      <project id="vegme-react-web" values="Directory,Project,Project,Project" collectionTime="1487180017942" />
+      <project id="synapse" values="Directory,Project,Project" collectionTime="1481099614568" />
+      <project id="protonmail-web" values="Project,Directory,Project,Project" collectionTime="1489232944029" />
+      <project id="self-service-android-app" values="Project,Project" collectionTime="1489168103172" />
+      <project id="dinetym-manager" values="Project,Project,Directory" collectionTime="1489745461190" />
+      <project id="dinetym-waitlist-api" values="Project,Project,Project,Directory" collectionTime="1482346904799" />
+      <project id="synapse-frontend" values="Project,Project,Project,Directory" collectionTime="1478255996964" />
+      <project id="yarn" values="Directory,Directory,Project,Directory,Directory,Directory,Project" collectionTime="1478186139070" />
+      <project id="vegme-react-native" values="Project,Project,Project,Directory" collectionTime="1484745456454" />
+      <project id="synapse-static-site" values="Project,Project,Directory" collectionTime="1478195200235" />
+      <project id="karunamilk-subscription" values="Project,Directory,Project,Project" collectionTime="1489060798808" />
+      <project id="community-app" values="Directory,Project" collectionTime="1491302520870" />
+      <project id="albums" values="Directory,Project" collectionTime="1491802043456" />
+      <project id="web-self-service-app" values="Project,Project,Directory" collectionTime="1489572451554" />
+      <project id="synapse-api" values="Directory,Project,Project,Project" collectionTime="1479389162087" />
+      <project id="website" values="Project,Project" collectionTime="1478160575373" />
+      <project id="Angular-2" values="Directory,Project,Project" collectionTime="1477058000627" />
+      <project id="New folder" values="Project,Project,Project,Directory" collectionTime="1487677192380" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="vegme-react-web" values="Flow" collectionTime="1487180017942" />
+      <project id="synapse" values="ECMAScript 5.1" collectionTime="1481099614568" />
+      <project id="protonmail-web" values="ECMAScript 6" collectionTime="1489232944029" />
+      <project id="self-service-android-app" values="ECMAScript 5.1" collectionTime="1489168103172" />
+      <project id="dinetym-manager" values="ECMAScript 5.1" collectionTime="1489745461190" />
+      <project id="dinetym-waitlist-api" values="ECMAScript 6" collectionTime="1482346904799" />
+      <project id="synapse-frontend" values="ECMAScript 6" collectionTime="1478255996964" />
+      <project id="yarn" values="ECMAScript 5.1" collectionTime="1478186139070" />
+      <project id="vegme-react-native" values="Flow" collectionTime="1484745456454" />
+      <project id="synapse-static-site" values="ECMAScript 5.1" collectionTime="1478195200235" />
+      <project id="karunamilk-subscription" values="React JSX" collectionTime="1489060798808" />
+      <project id="community-app" values="ECMAScript 5.1" collectionTime="1491302520870" />
+      <project id="albums" values="Flow" collectionTime="1491802043456" />
+      <project id="web-self-service-app" values="ECMAScript 5.1" collectionTime="1489572451554" />
+      <project id="synapse-api" values="ECMAScript 5.1" collectionTime="1479389162087" />
+      <project id="website" values="ECMAScript 5.1" collectionTime="1478160575373" />
+      <project id="Angular-2" values="ECMAScript 5.1" collectionTime="1477058000627" />
+      <project id="New folder" values="React JSX" collectionTime="1487677192380" />
+    </group>
+    <group name="module type">
+      <project id="vegme-react-web" values="WEB_MODULE" collectionTime="1487180017622" />
+      <project id="synapse" values="WEB_MODULE" collectionTime="1481099614299" />
+      <project id="protonmail-web" values="WEB_MODULE" collectionTime="1489232943831" />
+      <project id="self-service-android-app" values="JAVA_MODULE" collectionTime="1489168103147" />
+      <project id="dinetym-manager" values="WEB_MODULE" collectionTime="1489745459044" />
+      <project id="dinetym-waitlist-api" values="WEB_MODULE" collectionTime="1482346903724" />
+      <project id="synapse-frontend" values="WEB_MODULE" collectionTime="1478255996289" />
+      <project id="yarn" values="WEB_MODULE" collectionTime="1478186138952" />
+      <project id="vegme-react-native" values="WEB_MODULE" collectionTime="1484745456282" />
+      <project id="synapse-static-site" values="WEB_MODULE" collectionTime="1478195200223" />
+      <project id="karunamilk-subscription" values="WEB_MODULE" collectionTime="1489060798792" />
+      <project id="community-app" values="WEB_MODULE" collectionTime="1491302520738" />
+      <project id="albums" values="JAVA_MODULE" collectionTime="1491802042980" />
+      <project id="web-self-service-app" values="WEB_MODULE" collectionTime="1489572450529" />
+      <project id="synapse-api" values="WEB_MODULE" collectionTime="1479389160899" />
+      <project id="website" values="WEB_MODULE" collectionTime="1478160573060" />
+      <project id="Angular-2" values="WEB_MODULE" collectionTime="1477058000342" />
+      <project id="New folder" values="WEB_MODULE" collectionTime="1487677188802" />
+    </group>
+    <group name="vcs">
+      <project id="vegme-react-web" values="Git" collectionTime="1487180017622" />
+      <project id="synapse" values="Git" collectionTime="1481099614299" />
+      <project id="protonmail-web" values="Git" collectionTime="1489232943815" />
+      <project id="self-service-android-app" values="Git" collectionTime="1489168103147" />
+      <project id="dinetym-manager" values="Git" collectionTime="1489745459043" />
+      <project id="dinetym-waitlist-api" values="Git" collectionTime="1482346903722" />
+      <project id="synapse-frontend" values="Git" collectionTime="1478255996289" />
+      <project id="yarn" values="Git" collectionTime="1478186138951" />
+      <project id="vegme-react-native" values="Git" collectionTime="1484745456282" />
+      <project id="synapse-static-site" values="Git" collectionTime="1478195200223" />
+      <project id="karunamilk-subscription" values="Git" collectionTime="1489060798792" />
+      <project id="community-app" values="Git" collectionTime="1491302520738" />
+      <project id="albums" values="Git" collectionTime="1491802042978" />
+      <project id="web-self-service-app" values="Git" collectionTime="1489572450529" />
+      <project id="website" values="Git" collectionTime="1478160573060" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="vegme-react-web" values="data.branches.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1487180017663" />
+      <project id="synapse" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1481099614314" />
+      <project id="protonmail-web" values="data.branches.count.1+,data.git.root.count.1,data.commit.count.1K+" collectionTime="1489232944029" />
+      <project id="self-service-android-app" values="data.git.root.count.1,data.commit.count.100+,data.branches.count.1+" collectionTime="1489168103170" />
+      <project id="dinetym-manager" values="data.commit.count.100+,data.git.root.count.1,data.branches.count.1+" collectionTime="1489745459218" />
+      <project id="dinetym-waitlist-api" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1482346903818" />
+      <project id="synapse-frontend" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1478255996318" />
+      <project id="vegme-react-native" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1484745456313" />
+      <project id="synapse-static-site" values="data.commit.count.0,data.git.root.count.1" collectionTime="1478195200233" />
+      <project id="karunamilk-subscription" values="data.commit.count.1+,data.branches.count.1+,data.git.root.count.1" collectionTime="1489060798808" />
+      <project id="community-app" values="data.commit.count.1K+,data.branches.count.10+,data.git.root.count.1,data.users.count.100+" collectionTime="1491302520753" />
+      <project id="albums" values="data.commit.count.1+,data.branches.count.1+,data.git.root.count.1,data.users.count.1+" collectionTime="1491802043004" />
+      <project id="web-self-service-app" values="data.git.root.count.1,data.branches.count.1+,data.commit.count.1+" collectionTime="1489572450713" />
+      <project id="website" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1478160573073" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="self-service-android-app" values="Unknown" collectionTime="1489168103147" />
+    </group>
+    <group name="file-type">
+      <project id="vegme-react-web" values="PLAIN_TEXT,CSS,Ini,UNKNOWN,JSON,YAML,JavaScript,XML,EJS,Images,Markdown,Docker file,ESLint,SourceMap,Dockerfile,Git file,HTML" collectionTime="1487180017661" />
+      <project id="synapse" values="Images,Git file,Markdown,CSS,XML,JSON,UNKNOWN,PLAIN_TEXT,HTML,JavaScript" collectionTime="1481099614299" />
+      <project id="protonmail-web" values="ESLint,HTML,YAML,SCSS,ESLint file,Git file,XML,Images,JavaScript,PLAIN_TEXT,Bash,Markdown,JSON,CSS,UNKNOWN" collectionTime="1489232944013" />
+      <project id="self-service-android-app" values="XML,Bash,UNKNOWN,Bat,Images,Git file,IDEA_MODULE,PLAIN_TEXT,ARCHIVE,Markdown,YAML" collectionTime="1489168103169" />
+      <project id="dinetym-manager" values="CSS,ESLint file,Git file,SCSS,Jade,Images,ESLint,HTML,UNKNOWN,Markdown,SourceMap,YAML,JSON,PLAIN_TEXT,JavaScript" collectionTime="1489745459218" />
+      <project id="dinetym-waitlist-api" values="PLAIN_TEXT,ECMAScript 6,Markdown,JavaScript,JSON,Git file" collectionTime="1482346903816" />
+      <project id="synapse-frontend" values="JSON Schema,JavaScript,Markdown,PLAIN_TEXT,Git file" collectionTime="1478255996318" />
+      <project id="yarn" values="ESLint file,Images,JSON Schema,Ignore file,YAML,Markdown,Cmd,Git file,PLAIN_TEXT,CSS,XML,HTML,Bash,UNKNOWN,JavaScript,Bat,ESLint,Npm file,JSON" collectionTime="1478186138963" />
+      <project id="vegme-react-native" values="Ini,Images,UNKNOWN,JavaScript,XML,Git file,Bat,ARCHIVE,PLAIN_TEXT,JSON,C++,TypeScript,Bash" collectionTime="1484745456313" />
+      <project id="synapse-static-site" values="JSHint,XML,PLAIN_TEXT,UNKNOWN,JSCS,HTML,SourceMap,Less,Markdown,JavaScript,Git file,Images,JSON Schema,YAML,SCSS,CSS,Jade" collectionTime="1478195200233" />
+      <project id="karunamilk-subscription" values="PLAIN_TEXT,JSON,Images,JavaScript,Markdown,Dockerfile,Git file" collectionTime="1489060798808" />
+      <project id="community-app" values="JSCS,Less,Npm file,YAML,JSHint,Git file,HTML,Bash,CSS,SourceMap,Images,JavaScript,JSON,XML,PLAIN_TEXT,UNKNOWN,Markdown,SCSS" collectionTime="1491302520738" />
+      <project id="albums" values="Git file,JSON,ESLint,ARCHIVE,PLAIN_TEXT,Bat,XML,Bash,JavaScript,UNKNOWN,C++,Ini,Images" collectionTime="1491802043002" />
+      <project id="web-self-service-app" values="JavaScript,Images,Git file,SCSS,CSS,JSON,XML,Markdown,HTML,JSHint" collectionTime="1489572450713" />
+      <project id="synapse-api" values="JSON Schema,PLAIN_TEXT,Markdown,ESLint file,YAML,JavaScript,ESLint,Git file" collectionTime="1479389160977" />
+      <project id="website" values="Git file,XML,PLAIN_TEXT,UNKNOWN,JavaScript,YAML,Bash,HTML,JSON Schema,SourceMap,CSS,Images,JSCS,Markdown,SCSS" collectionTime="1478160573071" />
+      <project id="Angular-2" values="Git file,JSON Schema,JavaScript,HTML,SourceMap,TypeScript" collectionTime="1477058000382" />
+      <project id="New folder" values="JSON,Dockerfile,Git file,JavaScript,PLAIN_TEXT,Markdown,Images" collectionTime="1487677188818" />
+    </group>
+    <group name="frameworks">
+      <project id="albums" values="invalid" collectionTime="1491802042980" />
+      <project id="self-service-android-app" values="invalid" collectionTime="1489168103147" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="synapse-api" values="node_modules" collectionTime="1479389162087" />
+    </group>
+    <group name="Git">
+      <project id="vegme-react-web" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.local.branches.count.1,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.remote.branches.count.1,data.remotes.in.project.2+,config.cherry-pick.autocommit.disabled" collectionTime="1487180017664" />
+      <project id="synapse" values="data.local.branches.count.1,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.autoupdate.disabled" collectionTime="1481099614314" />
+      <project id="protonmail-web" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remote.branches.count.1,data.local.branches.count.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED" collectionTime="1489232944029" />
+      <project id="self-service-android-app" values="config.ssh.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.remote.branches.count.2+,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,data.local.branches.count.1" collectionTime="1489168103170" />
+      <project id="dinetym-manager" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,data.local.branches.count.2+,data.remote.branches.count.2+,config.push.update.all.roots.enabled,data.remotes.in.project.2+,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1489745459218" />
+      <project id="dinetym-waitlist-api" values="data.local.branches.count.1,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled,data.remotes.in.project.2+,config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1482346903819" />
+      <project id="synapse-frontend" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.remotes.in.project.1" collectionTime="1478255996319" />
+      <project id="yarn" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.2+,config.ssh.enabled,data.local.branches.count.1,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.remote.branches.count.30+" collectionTime="1478186138964" />
+      <project id="vegme-react-native" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.force.push.enabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1484745456313" />
+      <project id="synapse-static-site" values="data.remote.branches.count.0,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.detached.enabled,data.local.branches.count.0" collectionTime="1478195200233" />
+      <project id="karunamilk-subscription" values="config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remotes.in.project.2+,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,data.local.branches.count.2+,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1489060798808" />
+      <project id="community-app" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.30+,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1491302520753" />
+      <project id="albums" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.remote.branches.count.1,data.remotes.in.project.1" collectionTime="1491802043005" />
+      <project id="web-self-service-app" values="config.force.push.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,data.local.branches.count.2+,data.remotes.in.project.2+,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1489572450713" />
+      <project id="synapse-api" values="config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1479389161087" />
+      <project id="website" values="data.remotes.in.project.2+,config.warn.about.detached.enabled,data.remote.branches.count.5+,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled" collectionTime="1478160573073" />
+      <project id="Angular-2" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1477058000384" />
+      <project id="New folder" values="config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1487677188864" />
+    </group>
+    <group name="images.ide.background">
+      <project id="vegme-react-web" values="editor 0,frame 0" collectionTime="1487180017663" />
+      <project id="synapse" values="editor 0,frame 0" collectionTime="1481099614314" />
+      <project id="protonmail-web" values="editor 0,frame 0" collectionTime="1489232944029" />
+      <project id="self-service-android-app" values="editor 0,frame 0" collectionTime="1489168103170" />
+      <project id="dinetym-manager" values="frame 0,editor 0" collectionTime="1489745459218" />
+      <project id="dinetym-waitlist-api" values="frame 0,editor 0" collectionTime="1482346903818" />
+      <project id="synapse-frontend" values="frame 0,editor 0" collectionTime="1478255996318" />
+      <project id="yarn" values="frame 0,editor 0" collectionTime="1478186138963" />
+      <project id="vegme-react-native" values="editor 0,frame 0" collectionTime="1484745456313" />
+      <project id="synapse-static-site" values="frame 0,editor 0" collectionTime="1478195200233" />
+      <project id="karunamilk-subscription" values="frame 0,editor 0" collectionTime="1489060798808" />
+      <project id="community-app" values="frame 0,editor 0" collectionTime="1491302520753" />
+      <project id="albums" values="editor 0,frame 0" collectionTime="1491802043004" />
+      <project id="web-self-service-app" values="editor 0,frame 0" collectionTime="1489572450713" />
+      <project id="synapse-api" values="frame 0,editor 0" collectionTime="1479389161024" />
+      <project id="website" values="frame 0,editor 0" collectionTime="1478160573073" />
+      <project id="Angular-2" values="frame 0,editor 0" collectionTime="1477058000382" />
+      <project id="New folder" values="editor 0,frame 0" collectionTime="1487677188818" />
+    </group>
+    <group name="vcs-options">
+      <project id="community-app" values="commit.before.check.files.up.to.date.disabled,commit.show.unversioned.enabled,changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,changelist.preselect.existing.disabled,include.text.into.shelf.enabled,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,commit.clear.initial.comment.disabled,show.changes.preview.disabled,offer.remove.empty.changelist.show_confirmation,commit.use.right.margin.enabled,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,commit.before.rearrange.disabled,commit.before.reformat.file.disabled,perform.commit.in.background.enabled,perform.update.in.background.enabled,offer.move.partially.committed.disabled,commit.before.check.non.empty.comment.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.project.disabled" collectionTime="1491302520738" />
+      <project id="albums" values="commit.clear.initial.comment.disabled,commit.before.reformat.file.disabled,commit.before.check.code.smell.enabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.non.empty.comment.disabled,show.changes.preview.disabled,perform.add_remove.in.background.enabled,commit.use.right.margin.enabled,offer.move.partially.committed.disabled,commit.before.check.files.up.to.date.disabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,commit.before.check.todo.enabled,perform.commit.in.background.enabled,perform.checkout.in.background.enabled,include.text.into.shelf.enabled,perform.update.in.background.enabled,commit.before.optimize.imports.disabled,changelist.preselect.existing.disabled,perform.edit.in.background.enabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,offer.remove.empty.changelist.show_confirmation,changelist.make.new.active.disabled" collectionTime="1491802042979" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Empty Project" count="2" />
+      <entry feature="CreateFile.CreateFileAction" count="13" />
+      <entry feature="Npm.Packages.Install.Package.From.Package.Json" count="3" />
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="10" />
+      <entry feature="StripeButton[Version_Control].hidden" count="2" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="diff.DiffSettings.Tool.Unified viewer" count="1" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.BY_LINE" count="3" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.BY_WORD" count="4" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.BY_WORD_SPLIT" count="2" />
+      <entry feature="execute.js.build_tools.npm.Run" count="2" />
+      <entry feature="git.branch.checkout.local" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.settings.Appearance" count="14" />
+      <entry feature="ide.settings.Changelist_Conflicts" count="1" />
+      <entry feature="ide.settings.Code_Style" count="7" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="19" />
+      <entry feature="ide.settings.Confirmation" count="2" />
+      <entry feature="ide.settings.Console_Font" count="3" />
+      <entry feature="ide.settings.Diff_&amp;_Merge" count="1" />
+      <entry feature="ide.settings.ESLint" count="11" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.File_Colors" count="11" />
+      <entry feature="ide.settings.Font" count="23" />
+      <entry feature="ide.settings.General" count="3" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.HTML" count="2" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.JavaScript" count="12" />
+      <entry feature="ide.settings.Keymap" count="22" />
+      <entry feature="ide.settings.Libraries" count="4" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="1" />
+      <entry feature="ide.settings.Node.js_and_NPM" count="1" />
+      <entry feature="ide.settings.Plugins" count="9" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.VCS" count="6" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ideaapp.started" count="140" />
+      <entry feature="json.schema.builtin.completion" count="90" />
+      <entry feature="terminal.ssh" count="1" />
+      <entry feature="terminal.win" count="100" />
+      <entry feature="welcome.screen.WelcomScreen.ManageLicense" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.DesktopEntry" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

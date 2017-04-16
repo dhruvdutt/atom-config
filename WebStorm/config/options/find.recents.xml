@@ -1,0 +1,43 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>main</find>
+      <find>bookings</find>
+      <find>npm</find>
+      <find>md-menu</find>
+      <find>add</find>
+      <find>import {Add}</find>
+      <find>TODO</find>
+      <find>--dev</find>
+      <find>flags</find>
+      <find>rm rf</find>
+      <find>rm -rf</find>
+      <find>--ignore-engines</find>
+      <find>twbs/bootstrap.git</find>
+      <find>%LocalAppData%</find>
+      <find>LocalAppData</find>
+      <find>comm</find>
+      <find>gulp-u</find>
+      <find>dist</find>
+      <find>index.html</find>
+      <find>event</find>
+      <find>index</find>
+      <find>/index</find>
+      <find>.html</find>
+      <find>Develop by</find>
+      <find>Develop By</find>
+      <find>contact_</find>
+      <find>develo</find>
+      <find>_us</find>
+      <find>devel</find>
+      <find>contact_us</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Practice Projects\yarn\__tests__\fixtures\request-cache\GET\registry.yarnpkg.com</dir>
+      <dir>D:\Practice Projects\yarn\src</dir>
+      <dir>D:\Practice Projects\yarn\src\</dir>
+      <dir>D:\Practice Projects\yarn\__tests__</dir>
+      <dir>D:\Practice Projects\yarn</dir>
+    </dirStrings>
+  </component>
+</application>
