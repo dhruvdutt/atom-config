@@ -1,0 +1,105 @@
+{
+	"atom-ternjs": {
+		"displayAboveSnippets": true,
+		"useSnippets": true,
+		"useSnippetsAndFunction": true
+	},
+	"autocomplete-plus": {
+		"backspaceTriggersAutocomplete": true
+	},
+	"core": {
+		"autoHideMenuBar": true,
+		"customFileTypes": {
+			"source.ini": [
+				".buckconfig",
+				".hgrc",
+				".flowconfig"
+			],
+			"source.json": [
+				".arcconfig",
+				"BUCK.autodeps"
+			],
+			"source.python": [
+				"BUCK"
+			]
+		},
+		"disabledPackages": [
+			"jscs-fixer",
+			"linter-jscs",
+			"linter-jshint",
+			"linter-less",
+			"docblockr",
+			"angularjs",
+			"language-go",
+			"language-java",
+			"language-mustache",
+			"language-objective-c",
+			"language-perl",
+			"language-python",
+			"language-ruby",
+			"language-ruby-on-rails",
+			"language-toml",
+			"language-yaml",
+			"language-c",
+			"language-clojure",
+			"language-csharp",
+			"minimap",
+			"autocomplete-java",
+			"react",
+			"linter-eslint",
+			"linter-stylelint",
+			"nuclide"
+		],
+		"packagesWithKeymapsDisabled": [],
+		"projectHome": "F:\\Projects",
+		"telemetryConsent": "limited",
+		"themes": [
+			"one-dark-ui",
+			"atom-dark-syntax"
+		]
+	},
+	"editor": {
+		"fontSize": 16,
+		"lineHeight": 1.6,
+		"preferredLineLength": 100,
+		"scrollPastEnd": true,
+		"tabType": "soft"
+	},
+	"exception-reporting": {
+		"userId": "4f02a452-1cf8-6fc5-ec9e-fea33d22d6aa"
+	},
+	"git-plus": {
+		"general": {
+			"_analyticsUserId": "96ae7c91-c741-487e-a1b8-aab653094201"
+		}
+	},
+	"linter": {},
+	"merge-conflicts": {
+		"gitPath": "C:\\Program Files\\Git\\git-cmd.exe"
+	},
+	"nuclide": {
+		"nuclide-code-format": {
+			"formatOnSave": true
+		},
+		"nuclide-distraction-free-mode": {},
+		"nuclide-file-tree": {
+			"showOpenFiles": false
+		},
+		"nuclide-hg-repository": {},
+		"nuclide-home": {}
+	},
+	"sync-settings": {
+		"quietUpdateCheck": true
+	},
+	"tool-bar": {
+		"fullWidth": false,
+		"position": "Left",
+		"visible": false
+	},
+	"tree-view": {
+		"hideIgnoredNames": true
+	},
+	"welcome": {
+		"showOnStartup": false
+	}
+}
